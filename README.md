@@ -10,8 +10,11 @@ The project was designed with medical history related input and trined to predic
 
 # Data
 • Objective: factual information.
+
 • Examination: results of medical examination.
+
 • Subjective: information given by the patient.
+
 • Data provided by (https://www.kaggle.com/sulianova/cardiovascular-diseasedataset) has been used in this project.
 
 
