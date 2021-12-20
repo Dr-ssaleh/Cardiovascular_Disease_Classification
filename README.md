@@ -23,14 +23,22 @@ The project was designed with medical history related input and trined to predic
 
 
 # Algorithms
-• KNeighbors Classifier • Decision Tree
-• Random Forest
-• LGBM
-• Logistic
+• KNeighbors Classifier.
+
+• Decision Tree.
+
+• Random Forest.
+
+• LGBM.
+
+• Logistic.
 
 
 # Tools
 •	Python and Jupyter Notebook.
+
 •	Numpy and Pandas for data manipulation. 
+
 •	Matplotlib and Seaborn for plotting visualization.
+
 •	Sklearn for ML algorithms.
